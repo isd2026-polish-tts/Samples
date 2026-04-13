@@ -40,15 +40,17 @@ These samples represent the amateur speech subset used for the subjective MUSHRA
 
 ---
 
-## CLARIN Evaluation Samples
+## Professional Speech Samples
 
-| Sample | Text                                                              | Original (Ground Truth) | XTTS-v2 (Baseline) | F5-TTS (Proposed) |
-| :---: |:------------------------------------------------------------------| :--- |:-------------------| :--- |
-| **Sample&nbsp;1** | Filipek bardzo często i bez wyraźnego powodu gościł w Bydgoszczy. | <audio controls src="original_clarin/sample1.wav"></audio> | Not Available | <audio controls src="output_f5_tts_clarin/sample1.wav"></audio> |
-| **Sample&nbsp;2** | Francuzi nie zapomnieli o skromnych, acz smakowitych detalach. | <audio controls src="original_clarin/sample2.wav"></audio> | Not Available | <audio controls src="output_f5_tts_clarin/sample2.wav"></audio> |
-| **Sample&nbsp;3** | Zwłaszcza że tacy Anglicy są o wiele bardziej pewni awansu niż my. | <audio controls src="original_clarin/sample3.wav"></audio> | Not Available | <audio controls src="output_f5_tts_clarin/sample3.wav"></audio> |
-| **Sample&nbsp;4** | A przecież gdyby tego nie uczynił, badania byłyby opóźnione. | <audio controls src="original_clarin/sample4.wav"></audio> | Not Available | <audio controls src="output_f5_tts_clarin/sample4.wav"></audio> |
-| **Sample&nbsp;5** | Ale przed nami, oprócz wzgórza i rzadkich krzaków, nie było nic. | <audio controls src="original_clarin/sample5.wav"></audio> | Not Available | <audio controls src="output_f5_tts_clarin/sample5.wav"></audio> |
+| Sample | Text                                                              | Original (Ground Truth) | F5-TTS (Proposed) |
+| :---: |:------------------------------------------------------------------| :--- | :--- |
+| **Sample&nbsp;1** | Filipek bardzo często i bez wyraźnego powodu gościł w Bydgoszczy. | <audio controls src="original_clarin/sample1.wav"></audio> | <audio controls src="output_f5_tts_clarin/sample1.wav"></audio> |
+| **Sample&nbsp;2** | Francuzi nie zapomnieli o skromnych, acz smakowitych detalach. | <audio controls src="original_clarin/sample2.wav"></audio> | <audio controls src="output_f5_tts_clarin/sample2.wav"></audio> |
+| **Sample&nbsp;3** | Zwłaszcza że tacy Anglicy są o wiele bardziej pewni awansu niż my. | <audio controls src="original_clarin/sample3.wav"></audio> | <audio controls src="output_f5_tts_clarin/sample3.wav"></audio> |
+| **Sample&nbsp;4** | A przecież gdyby tego nie uczynił, badania byłyby opóźnione. | <audio controls src="original_clarin/sample4.wav"></audio> | <audio controls src="output_f5_tts_clarin/sample4.wav"></audio> |
+| **Sample&nbsp;5** | Ale przed nami, oprócz wzgórza i rzadkich krzaków, nie było nic. | <audio controls src="original_clarin/sample5.wav"></audio> | <audio controls src="output_f5_tts_clarin/sample5.wav"></audio> |
+
+> **Note:** These recordings originate from the CLARIN dataset and were not included in the MUSHRA evaluation. Consequently, XTTS-v2 samples were not generated for this professional speech subset.
 
 ---
 
